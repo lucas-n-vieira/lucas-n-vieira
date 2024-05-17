@@ -20,4 +20,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/lucasnvieira"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lucasnvieira" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-n-vieira&show_icons=true&title_color=dcdcdc&text_color=000000&bg_color=00f615&locale=en&layout=compact" alt="lucas-n-vieira" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-n-vieira&show_icons=true&title_color=000000&text_color=000000&bg_color=dcdcdc&locale=en&layout=compact" alt="lucas-n-vieira" /></p>
